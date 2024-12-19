@@ -6,13 +6,13 @@ https://experienceleague.adobe.com/developer/commerce/storefront/
 
 ## Environments - Doc-based
 
-- Preview: https://main--citisignal-doc--adobedevxsc.aem.page/
-- Live: https://main--citisignal-doc--adobedevxsc.aem.live/
+- Preview: https://main--myer-poc--wfranksadobe.aem.page/
+- Live: https://main--myer-poc--wfranksadobe.aem.live/
 
 ## Environments - AEM UE + Crosswalk
 
-- Preview: https://main--citisignal-one--adobedevxsc.aem.page/
-- Live: https://main--citisignal-one--adobedevxsc.aem.live/
+- Preview: https://main--myer-poc--wfranksadobe.aem.page/
+- Live: https://main--myer-poc--wfranksadobe.aem.live/
 
 ## Pre-requisites
 
